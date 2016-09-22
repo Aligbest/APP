@@ -1,0 +1,46 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "Jd"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "Jd"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "Jd"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "Jd"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "Jd"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "Jd"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "Jd"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "Jd"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "Jd"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "Jd"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "Jd"
+        }
+    }
+}
